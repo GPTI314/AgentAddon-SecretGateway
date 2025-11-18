@@ -1,0 +1,1 @@
+"""SecretGateway addon package."""
